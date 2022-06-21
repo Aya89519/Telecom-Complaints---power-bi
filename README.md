@@ -1,1 +1,2 @@
-# Telecom-Complaints---power-bi
+Analyzing  the complaints of a telecom company,  First finding the dataset on kaggle, second exploring the data, then asking business questions to be considered in the next stages, then preparing and cleaning the data,  then the staging area in which getting the data from the excel files and load in  a database through ssis, then designing the data warehouse about complaints subject and make all dimensions and fact table follow the star schema, finally the data warehouse is imported in the power bi and then making an insightful dynamic dashboard that answer the business questions.
+(tools: power bi desktop, SSIS, excel, sql server)
